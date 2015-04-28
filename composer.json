@@ -1,5 +1,5 @@
 {
-	"name": "Gyengus/PhantClient",
+	"name": "gyengus/phantclient",
 	"description": "PHP client for Phant",
 	"license": "MIT",
 	"keywords": ["phant"],
