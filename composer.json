@@ -1,0 +1,19 @@
+{
+	"name": "Gyengus/PhantClient",
+	"description": "PHP client for Phant",
+	"license": "MIT",
+	"keywords": ["phant"],
+	"authors": [
+		{
+			"name": "Gábor Gyenge",
+			"email": "gyengus@gmail.com"
+		}
+	],
+	"require": {},
+	"require-dev": {},
+	"autoload": {
+		"psr-4": {
+			"Gyengus\\PhantClient\\": "src"
+		}
+	}
+}

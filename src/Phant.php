@@ -1,4 +1,6 @@
 <?php
+	namespace Gyengus\PhantClient;
+
 	class Phant {
 		protected $url = ""; // Phant server url
 		protected $pubkey = ""; // Stream public key
